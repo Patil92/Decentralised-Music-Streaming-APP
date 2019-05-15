@@ -1,5 +1,5 @@
 # Decentralised-Music-Streaming-APP
-A Decentralised Music Streaming App Using IPFS
+A Decentralised Peer to Peer Music Streaming App Using IPFS
 
 
 Technologies Used :
